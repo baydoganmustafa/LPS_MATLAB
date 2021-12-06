@@ -1,5 +1,4 @@
-# LPS_MATLAB
-Matlab implementation of LPS for Multivariate Time Series Similarity
+# Matlab implementation of Learned Pattern Similarity (LPS) for Multivariate Time Series Similarity
 
 This is Matlab implementation of Learned Pattern Similarity introduced in our paper DAMI paper "Time series representation and similarity based on local autopatterns" in 2016. Note that there is an efficient R implementation introduced as an R package named LPStimeSeries on [CRAN](https://cran.r-project.org/web/packages/LPStimeSeries/) which works for univariate time series database where time series lengths are equal. Please also check [https://www.timeseriesclassification.com/](https://www.timeseriesclassification.com/) for java implementation. This version is also working on univaraite time series.
 
